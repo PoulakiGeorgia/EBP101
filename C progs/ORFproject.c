@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <string.h>
 #include <math.h>
+#include <string.h>
 #include <stdbool.h>
 
 int main()
@@ -53,5 +53,5 @@ int main()
         }
     }
 
-    return 0;
+
 }
